@@ -1,18 +1,56 @@
-# 💫 About Me:
-🎯 **Tech Stack**:  <br>JavaScript, TypeScript, React, Next.js, UI kits, various libraries  <br><br>🚀 **Current Projects**:<br>Working on various projects — from landing pages to large marketplaces  <br><br>🌱 **Currently Learning**: <br>Next.js and its ecosystem, Docker   <br><br>⚡ **Fun Fact:**  <br>I love frontend for its constant evolution — there’s always something new to learn!  <br>But this is just the beginning; I plan to expand my skills in the future 😎 
+# Roman
 
+**Middle+ Frontend Developer** · Minsk, Belarus  
+Open to **part-time** or **full-time** with a flexible schedule.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roman_kuchuk@outlook.com) 
+I take product UI from Figma to production on **React / Next.js / TypeScript** — including realtime features, dashboards, and Electron desktop apps. I can do that in an existing codebase, not only from scratch: PRs, reviews, and shipping next to a backend team.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Roman13-k&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Roman13-k&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roman13-k&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+3 years of commercial frontend · 3rd-year student · Russian (native), English (B1), Polish (B1)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Roman13-k&theme=ocean_dark&no-frame=false&no-bg=false&margin-w=4)
+## Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Core:** HTML, CSS, JavaScript, TypeScript, React, Next.js (App Router), Git, Figma  
+**UI:** CSS Modules, SCSS, Tailwind, styled-components, MUI, shadcn/ui  
+**State & data:** Redux Toolkit, RTK Query, Zustand, TanStack Query, React Hook Form, Zod  
+**Realtime & desktop:** WebSocket, WebRTC, Electron, PWA  
+**Auth & APIs:** REST, JWT, OAuth, Supabase  
+**Quality:** Jest, Testing Library, Playwright  
+**Also used:** Nuxt, Strapi, Docker (basics), NestJS (one project)
+
+## Commercial work
+
+Closed-source product work. Details on request.
+
+**GPower** — Frontend Developer · Aug 2024 — present  
+IoT platform for smart gym equipment: telemetry, training analytics, and trainer–client sessions.  
+Electron + Next.js desktop app (Windows / macOS), live charts, Bluetooth/cable sync with devices, WebRTC video, payments and CDEK delivery. Stack: React, Next.js, Electron, TypeScript, WebRTC, TanStack Query, Zustand, Tailwind, WebSocket.
+
+**Semily** — Frontend Developer · May 2023 — Jul 2024  
+Cosmetics storefront with offline store map, gamification, and an operator-facing chatbot builder.  
+Realtime chat (WebSocket), Yandex Maps, fortune-wheel campaign UI, tree-based bot scenario editor, Motion One animations. Stack: React, Next.js, JavaScript, WebSocket, Motion One, Tailwind, REST.
+
+**TravelPass** — Frontend Developer · Oct 2022 — Apr 2023  
+Booking for events, tables, and tickets. Catalog, online reservations, RU/EN via next-intl, REST integrations. Stack: Next.js, React, TypeScript, next-intl.
+
+## Public projects
+
+**[Social network](https://github.com/Roman13-k/social-network)** · [live demo](https://socialnetwork-chi.vercel.app/)  
+Twitter-style app: posts, comments, realtime chats, push notifications, PWA.  
+Next.js, TypeScript, Tailwind, Redux Toolkit, Supabase (Auth, DB, Storage, Realtime), Zod, shadcn/ui.
+
+**[WORDIX](https://github.com/Roman13-k/wordle-clone)**  
+Wordle-style game with daily words, profiles, friends, and a desktop build.  
+Next.js, Electron (auto-update), Supabase, Zustand, TanStack Query, Tailwind, OAuth.
+
+## How I work
+
+- Join existing React/Next.js codebases and ship through **PRs and reviews**
+- Check **page load, SEO, Core Web Vitals, and API latency** in DevTools instead of guessing
+- Use AI as a **tool** — I still read and own the code I merge
+
+## Contact
+
+Telegram is the fastest way to reach me.
+
+- Telegram: [skwugeo](https://t.me/skwugeo)
+- Email: [roman_kuchuk@outlook.com](mailto:roman_kuchuk@outlook.com)
