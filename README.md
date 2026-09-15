@@ -49,4 +49,5 @@ Next.js, Electron (auto-update), Supabase, Zustand, TanStack Query, Tailwind, OA
 ## Contact
 
 - Telegram: [skwugeo](https://t.me/skwugeo)
+- WhatsApp: [+375 29 9057518](https://wa.me/375299057518)
 - Email: [roman_kuchuk@outlook.com](mailto:roman_kuchuk@outlook.com)
