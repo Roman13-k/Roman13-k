@@ -48,7 +48,5 @@ Next.js, Electron (auto-update), Supabase, Zustand, TanStack Query, Tailwind, OA
 
 ## Contact
 
-Telegram is the fastest way to reach me.
-
 - Telegram: [skwugeo](https://t.me/skwugeo)
 - Email: [roman_kuchuk@outlook.com](mailto:roman_kuchuk@outlook.com)
