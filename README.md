@@ -3,8 +3,6 @@
 **Middle+ Frontend Developer** · Minsk, Belarus  
 Open to **part-time** or **full-time** with a flexible schedule.
 
-I take product UI from Figma to production on **React / Next.js / TypeScript** — including realtime features, dashboards, and Electron desktop apps. I can do that in an existing codebase, not only from scratch: PRs, reviews, and shipping next to a backend team.
-
 3 years of commercial frontend · 3rd-year student · Russian (native), English (B1), Polish (B1)
 
 ## Stack
